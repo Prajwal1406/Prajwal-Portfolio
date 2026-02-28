@@ -17,8 +17,8 @@ export const EXPERIENCE = [
   },
   {
     role: "VLSI Design Intern",
-    company: "Sure Trust",
-    location: "Remote",
+    company: "Trust For Advanced Skills",
+    location: "Offline",
     date: "2024",
     current: false,
     description:
