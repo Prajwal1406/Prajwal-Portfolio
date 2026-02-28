@@ -18,12 +18,22 @@ export const EXPERIENCE = [
   {
     role: "VLSI Design Intern",
     company: "Trust For Advanced Skills",
-    location: "Offline",
-    date: "2024",
+    location: "Hyderabad",
+    date: "2025",
     current: false,
     description:
       "Focused on RTL design, verification, and synthesis workflows. Worked on real-time projects involving digital design flow and low-power optimization.",
     tags: ["RTL Design", "Synthesis Workflows", "Low-Power Optimization"],
+  },
+  {
+    role: "Genc Intern",
+    company: "Cognizant",
+    location: "Coimbatore",
+    date: "2025",
+    current: false,
+    description:
+      "Built and optimized cloud architectures using Google Cloud Platform (GCP).",
+    tags: ["GCP", "Cloud Infrastructure"],
   },
   {
     role: "Cloud Architecture Intern",
@@ -34,15 +44,5 @@ export const EXPERIENCE = [
     description:
       "Designed scalable cloud solutions and infrastructure architectures.",
     tags: ["Cloud Architecture", "Scalability", "AWS"],
-  },
-  {
-    role: "Genc Intern",
-    company: "Cognizant",
-    location: "Remote",
-    date: "2023",
-    current: false,
-    description:
-      "Built and optimized cloud architectures using Google Cloud Platform (GCP).",
-    tags: ["GCP", "Cloud Infrastructure"],
   },
 ];
